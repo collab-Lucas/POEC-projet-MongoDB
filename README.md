@@ -1,7 +1,7 @@
 Projet POEC DIGINAMIC
 
 APPLICATION python mongodb
-Pour le gestion d'une collection de livre
+Pour la gestion d'une collection de livre par
 titre auteur année et type
 
 Menu
